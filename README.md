@@ -64,10 +64,10 @@
 
 ## 🏠 프로젝트 설계
 
-### 프로토타입
+### ProtoType
 - [Figma](https://www.figma.com/file/STAQLXm4jjJnYXJD3aUkRr/Babble?node-id=0%3A1)
 
-### 서비스 구조
+### Architecture
 <img src="https://i.imgur.com/mN62h4J.png" width="80%">
 
 ### ERD
