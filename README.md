@@ -3,7 +3,14 @@
 
 # Ba:bble
 
-[![Video Label](http://img.youtube.com/vi/7Mbr7E0z4Lc/0.jpg)](https://youtu.be/7Mbr7E0z4Lc)
+<a href="https://frequent-podium-9d7.notion.site/Convention-9a5f50109e204c85abdf5e1053dd471b" target="_blank">
+  <img src = "https://i.imgur.com/H2BnAoP.png" width = "70" height = "70">
+</a>
+
+<a href="https://youtu.be/7Mbr7E0z4Lc" target="_blank">
+  <img src = "https://i.imgur.com/TGNn7SL.png" width = "70" height = "70">
+</a>
+
 
 ## 목차
 
