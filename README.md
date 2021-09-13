@@ -1,5 +1,5 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Ba:bble&height=150&fontSize=60&desc=당신을%20위한%20공간&descAlignY=75&descAlign=60)
-
+<!-- ![transparent](https://capsule-render.vercel.app/api?fontColor=703ee5&text=Ba:bble&height=150&fontSize=60&desc=당신을%20위한%20공간&descAlignY=75&descAlign=60) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ba:bble&fontSize=70&animation=fadeIn&fontAlignY=38&desc=당신을%20위한%20공간&descAlignY=51&descAlign=62)
 
 # Ba:bble
 
