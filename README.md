@@ -12,6 +12,8 @@
   </a>
 </center>
 
+<img src="https://i.imgur.com/GBkP6dX.png"/>
+
 ## 목차
 
 - [프로젝트 소개](#-프로젝트-소개)     
